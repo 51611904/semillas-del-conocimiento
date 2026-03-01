@@ -1,3 +1,6 @@
-# Semillas del conocimiento
+# Semillas del Conocimiento
 
-Welcome to the "Semillas del conocimiento" project. This is a production-ready PHP+SQLite application designed to facilitate knowledge sharing.
+This project is a production-ready PHP + SQLite application focused on...
+
+## Installation
+For installation instructions, see INSTALL_PROD.md.
